@@ -1,4 +1,4 @@
-# 我正在复刻青春版四足机器人，这是学习路径上的参考项目。
+# 我正在复刻青春版四足机器人，这是学习路径上的参考项目
 # champ [![Build Status](https://travis-ci.org/chvmp/champ.svg?branch=master)](https://travis-ci.org/chvmp/champ) 
 ROS Packages for CHAMP Quadruped Controller.
 
